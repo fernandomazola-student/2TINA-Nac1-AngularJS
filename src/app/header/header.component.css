@@ -1,0 +1,28 @@
+.back-color{
+  background-color: #400040;
+}
+
+.container{
+  padding-right: 0;
+padding-left: 0;
+}
+
+.navbar{
+  border-radius: 0px;
+}
+
+.navbar a{
+  color: #ffffff
+}
+
+.navbar-header span{
+  background-color: #ffffff;
+}
+
+.navbar[_ngcontent-c1]   a[_ngcontent-c1]:hover{
+  background-color: #660066;
+}
+
+.active{
+  background-color: #660066;
+}

@@ -1,0 +1,18 @@
+.back-image{
+  background-image: url('../../assets/img/banner.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.font-color{
+  color: #ffffff;
+}
+
+.font{
+  font-size: 25px;
+  padding-top: 20px;
+}
+
+.padding-home{
+  padding:62px;
+}
