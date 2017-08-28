@@ -23,6 +23,12 @@ padding-left: 0;
   background-color: #660066;
 }
 
+
+
+.navbar[_ngcontent-c1]   a[_ngcontent-c1]:visited{
+  background-color: #660066;
+}
+
 .active{
   background-color: #660066;
 }

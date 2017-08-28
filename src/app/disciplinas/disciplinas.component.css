@@ -1,0 +1,39 @@
+.back-image{
+  background-image: url('../../assets/img/bannerDisciplinas.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.font-color{
+  color: #ffffff;
+}
+
+.font{
+  font-size: 25px;
+  padding-top: 20px;
+}
+
+.padding-home{
+  padding:62px;
+}
+
+.padding{
+    padding-top: 50px;
+}
+
+.paddings{
+    padding-top: 100px;
+}
+
+h4{
+  padding-left:10px;
+}
+p{
+  padding: 10px;
+}
+
+.color_full{
+  background-color: #6e3ec4;
+  border: 1px solid blue;
+  color: #ffffff;
+}

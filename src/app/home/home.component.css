@@ -16,3 +16,48 @@
 .padding-home{
   padding:62px;
 }
+
+
+article.box{
+  width: 23%;
+  box-sizing: border-box;
+  float: left;
+  border: 2px solid #d8d6d6;
+  margin-right: 2%;
+  height: 400px;
+}
+
+
+.padding{
+    padding-top: 50px;
+}
+
+.title_destaque{
+  text-align: center;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.p_destaque{
+  text-align: center;
+  margin: 0;
+  padding: 0 15px 0 15px;
+}
+
+.espace-top{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.box_color{
+  background-color: #d8d6d6;
+
+}
+
+img.img{
+  width: 100%;
+}
+
+.border_grey{
+  border: 2px solid #d8d6d6;
+}

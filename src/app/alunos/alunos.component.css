@@ -1,0 +1,30 @@
+.back-image{
+  background-image: url('../../assets/img/bannerAlunos.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.font-color{
+  color: #ffffff;
+}
+
+.font{
+  font-size: 25px;
+  padding-top: 20px;
+}
+
+.padding-home{
+  padding:62px;
+}
+
+.padding{
+    padding-top: 50px;
+}
+
+.paddings{
+    padding-top: 100px;
+}
+p{
+  text-align: center;
+  padding-top: 10px;
+}
