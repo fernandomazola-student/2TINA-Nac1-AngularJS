@@ -37,3 +37,12 @@ p{
   border: 1px solid blue;
   color: #ffffff;
 }
+
+.list-group-item:hover {
+  background-color: #603EAF;
+  color: white;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    font-size: 30px;
+}
