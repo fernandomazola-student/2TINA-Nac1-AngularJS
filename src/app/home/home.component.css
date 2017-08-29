@@ -61,3 +61,29 @@ img.img{
 .border_grey{
   border: 2px solid #d8d6d6;
 }
+
+
+
+
+.tamanho .col-md-3 .caption{
+  min-height: 220px;
+}
+
+.thumbnail {
+  background-color: white;
+  text-align: center;
+}
+
+.col-md-3:nth-child(odd) .caption {
+  background-color: #eee;
+}
+
+.thumbnail img  {
+  border-bottom: 1px solid #E7E7E7;
+  width: 100%;
+}
+
+.thumbnail .title {
+  font-size: 20px;
+  line-height: 22px;
+}

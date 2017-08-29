@@ -6,7 +6,7 @@ import {ContatosComponent} from './contatos/contatos.component'
 import {DisciplinasComponent} from './disciplinas/disciplinas.component'
 
 export const ROUTES: Routes = [
-  {path: '', component: HomeComponent},
+  {path: 'home', component: HomeComponent},
   {path: 'alunos', component: AlunosComponent},
   {path: 'contatos', component: ContatosComponent},
   {path: 'disciplinas', component: DisciplinasComponent}
